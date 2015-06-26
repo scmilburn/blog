@@ -1,0 +1,13 @@
+# Site settings
+title: Simon's blog
+email: scmilburn@gmail.com
+description: > # this means to ignore newlines until "baseurl:"
+    Plan on writing about my current projects but might just be a bunch of 
+    random stuff.
+baseurl: "" # the subpath of your site, e.g. /blog/
+url: "scmilburn.com" # the base hostname & protocol for your site
+twitter_username: bitcamp_roomba
+github_username:  scmilburn
+
+# Build settings
+markdown: kramdown
